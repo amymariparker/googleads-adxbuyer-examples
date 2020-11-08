@@ -99,7 +99,7 @@
     <dependency>
       <groupId>com.google.apis</groupId>
       <artifactId>google-api-services-adexchangebuyer</artifactId>
-      <version>v1.4-rev38-1.23.0</version>
+      <version>v2beta1-rev2-1.21.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.apis</groupId>
