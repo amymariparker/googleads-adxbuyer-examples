@@ -2,3 +2,4 @@ google-api-python-client
 google-auth
 google-auth-httplib2
 requests
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
